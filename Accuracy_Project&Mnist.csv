@@ -1,0 +1,19 @@
+Projcect : Job change of data scientist,
+Algorihm,Accuracy
+KNN ,0.773358
+Logistic Regression:,0.773728
+Decision Tree:,0.704184
+RandomForest: ,0.771424
+SVC: ,0.775172
+GradientBoosting ,0.76353
+AdaBoostClassifier,0.760199
+XGBOOST ,0.7621
+,
+MNIST:Digit Recognizer,
+Algorithm,Accuracy
+1. KNN                    ,0.9406
+2. Logistic Regression   ,0.9125
+3. SVM                   ,0.9581
+4. Decision Tree         ,0.8492
+5. Random Forest         ,0.964
+6. XGBOOST               ,0.9325
